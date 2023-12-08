@@ -3,6 +3,6 @@
 About lab 11-12::
 
 you have to download all the files in lab 11-12
-then The completedDatapath file
+then The "completedDatapathWithACU&MCU" file
 
-good luky
+good luky ;)
